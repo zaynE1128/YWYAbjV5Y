@@ -16,7 +16,6 @@
 # ============================================================================ #
 #                             B a s h   L o g o u t
 # ============================================================================ #
-
 # read all history lines not already read from the history file and append them to the history list
 history -n
 
