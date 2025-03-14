@@ -16,7 +16,6 @@ tests
 # required for Docker build
 !tests/resources/mlflow-test-plugin/
 
-node_modules
 coverage
 build
 npm-debug.log*
