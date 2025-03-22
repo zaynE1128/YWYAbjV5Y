@@ -14,7 +14,6 @@ Firstly, clone this repository on your desktop using the below command.
 
 ```groovy
 git clone https://github.com/skydoves/android-developer-roadmap
-```
 
 ### Import the roadmap project
 
