@@ -20,7 +20,6 @@ regex = false
 ignore_missing_version = false
 ignore_missing_files = false
 allow_dirty = true # allow bumping when there are uncommitted git files
-
 tag = false
 sign_tags = false
 tag_name = "v{new_version}"
