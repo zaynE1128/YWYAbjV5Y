@@ -34,7 +34,6 @@ optional_value = "final"
 
 [[tool.bumpversion.files]]
 filename = "dynaconf/VERSION"
-search = "{current_version}"
 
 [[tool.bumpversion.files]]
 filename = "mkdocs.yml"
